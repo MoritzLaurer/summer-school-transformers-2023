@@ -5,19 +5,19 @@ The session will be recorded and the recording will be published on YouTube.
 
 ### Main notebooks used in the course:
 
-`1-intro-breaking-barriers.ipynb`: An overview of accessible hardware (Google Colab) and easy-to-use software (Hugging Face Transformers) to use Transformers without a PhD in deep learning. 
+`1_open_source_toolkit.ipynb`: An overview of accessible hardware (Google Colab) and easy-to-use software (Hugging Face Transformers) to use Transformers without a PhD in deep learning. 
 
-`2-inside-transformers.ipynb`: A high-level breakdown of the main components for using Transformers (models & tokenizer).
+`2_inside_transformers.ipynb`: A high-level breakdown of the main components for using Transformers (models & tokenizer).
 
-`3-tune-BERT.ipynb`: An end-to-end training pipeline for training and evaluating a BERT-base model. 
+`3_tune_bert.ipynb`: An end-to-end training pipeline for training and evaluating a BERT-base model. 
 
-`4-tune-BERT-NLI.ipynb`: An end-to-end training pipeline for training and evaluating a BERT-NLI model. 
+`4_tune_bert_nli.ipynb`: An end-to-end training pipeline for training and evaluating a BERT-NLI model. 
 
-`5-data-quality-and-cleaning.ipynb`: Illustrations of data quality issues in established datasets and a tool (CleanLab) for automatic data cleaning. 
+`5_data_quality_and_cleaning.ipynb`: Illustrations of data quality issues in established datasets and a tool (CleanLab) for automatic data cleaning. 
 
-`6-annotation-interface-argilla.ipynb`: A demo of the free data annotation interface Argilla for creating your own training and test data. 
+`6_annotation_interface_argilla.ipynb`: A demo of the free data annotation interface Argilla for creating your own training and test data. 
 
-`7-tune-generative-llm.ipynb`: An end-to-end training pipeline for training and evaluating a generative LLM (FLAN-T5).  
+`7_tune_generative_llm.ipynb`: An end-to-end training pipeline for training and evaluating a generative LLM (FLAN-T5).  
 
 ### Course Abstract:
 
