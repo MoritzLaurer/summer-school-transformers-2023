@@ -1,7 +1,7 @@
 # Course: Hands-on Transformers: Fine-Tune your own BERT and GPT
 This repository contains the materials for the course "Hands-on Transformers: Fine-Tune your own BERT and GPT" on 22. August 2023 by [Moritz Laurer](https://www.linkedin.com/in/moritz-laurer/) for the [Data Science Summer School 2023](https://ds3.ai/2023/transformer.html)
 
-The session will be recorded and the recording will be published on YouTube. 
+The summer school session was recorded and the full video is available here: https://ds3.ai/2023/transformer.html
 
 ### Main notebooks used in the course:
 
